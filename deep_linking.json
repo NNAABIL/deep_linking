@@ -1,0 +1,25 @@
+{
+  "flutterDevelopers": [
+    {
+      "name": "John Doe",
+      "age": 28,
+      "email": "john.doe@example.com",
+      "skills": ["Flutter", "Dart", "UI/UX Design"],
+      "githubProfile": "https://github.com/johndoe"
+    },
+    {
+      "name": "Jane Smith",
+      "age": 25,
+      "email": "jane.smith@example.com",
+      "skills": ["Flutter", "Firebase", "API Integration"],
+      "githubProfile": "https://github.com/janesmith"
+    },
+    {
+      "name": "David Brown",
+      "age": 30,
+      "email": "david.brown@example.com",
+      "skills": ["Flutter", "State Management", "Testing"],
+      "githubProfile": "https://github.com/davidbrown"
+    }
+  ]
+}
